@@ -1,0 +1,12 @@
+{
+  "urgent": {
+    "doctor": "Dr. Sharma",
+    "specialty": "General Physician",
+    "time": "Today, 5:00 PM"
+  },
+  "routine": {
+    "doctor": "Dr. Patel",
+    "specialty": "General Physician",
+    "time": "Tomorrow, 11:00 AM"
+  }
+}

@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+langgraph
+langchain-openai
+langsmith
+chromadb
+rank-bm25
+openai
